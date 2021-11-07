@@ -1,0 +1,31 @@
+.name{
+  background-color: #FF865E;
+  color: white;
+}
+
+.FontColor{
+  color: #FF865E;
+}
+
+img{
+  border: 2px solid #FF8585;
+}
+
+/* unvisited link */
+a:link {
+  color: #FF865E;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: black;
+}
+
+/* selected link */
+a:active {
+  color: blue;
